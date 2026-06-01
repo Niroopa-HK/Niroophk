@@ -1,86 +1,110 @@
-# Hi, I'm Niroopa H K 👋
+# Hi 👋, I'm Niroopa H K
 
 ### Linux System Administrator | AWS Cloud | Networking (CCNA) | Technical Support
 
-MCA graduate with hands-on experience in Linux administration, AWS cloud services, and networking fundamentals. Passionate about cloud infrastructure, system administration, automation, and cloud security. Currently building practical projects in Linux, AWS, and networking while pursuing a career in Cloud Operations and Infrastructure Engineering.
+🌍 Based in Bengaluru, Karnataka, India
+
+🎓 MCA Graduate passionate about Linux Administration, Cloud Computing, Networking, and Infrastructure Operations
+
+🌱 I'm currently learning AWS Cloud, Linux Administration, Shell Scripting, and Cloud Security
+
+☁️ Currently building hands-on projects using AWS, Linux, and Networking concepts
+
+💻 All of my projects are available on GitHub
+
+🚀 Interested in Cloud Operations, System Administration, Technical Support, DevOps, and Cloud Security
+
+💬 Ask me about Linux Administration, AWS Cloud, Networking (CCNA), Bash Scripting, and Technical Support
+
+📫 Reach me at: [niroopa.19982002hk@gmail.com](mailto:niroopa.19982002hk@gmail.com)
+
+🔗 LinkedIn: https://www.linkedin.com/in/niroopa-h-k/
 
 ---
 
 ## 🚀 Technical Skills
 
-### Linux Administration
-- RHEL & Ubuntu
-- User & Group Management
-- File Permissions & ACL
-- SSH Configuration
-- Package Management (YUM/APT)
-- Process & Service Management
-- Cron Jobs
-- System Monitoring
-- Log Analysis
-- Bash Shell Scripting
+### 🐧 Linux Administration
 
-### AWS Cloud
-- IAM
-- S3
-- CloudFront
-- Route 53
-- Lambda
-- API Gateway
-- SNS
-- SES
-- CloudWatch
+* RHEL
+* Ubuntu
+* User & Group Management
+* SSH
+* File Permissions & ACL
+* Cron Jobs
+* Package Management (YUM/APT)
+* Process & Service Management
+* Log Analysis
+* System Monitoring
+* Bash Shell Scripting
 
-### Networking (CCNA)
-- TCP/IP
-- OSI Model
-- Subnetting
-- Routing & Switching
-- VLANs
-- DNS
-- NAT
-- Network Troubleshooting
+### ☁️ AWS Cloud
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Eclipse
+* IAM
+* S3
+* CloudFront
+* Route 53
+* Lambda
+* API Gateway
+* SNS
+* SES
+* CloudWatch
 
-### Programming
-- Python
-- Java
-- SQL
-- JavaScript
+### 🌐 Networking (CCNA)
+
+* TCP/IP
+* OSI Model
+* Subnetting
+* Routing & Switching
+* VLANs
+* DNS
+* NAT
+* Network Troubleshooting
+
+### 🛠 Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Eclipse
+
+### 💻 Programming
+
+* Python
+* Java
+* SQL
+* JavaScript
 
 ---
 
 ## 📂 Featured Projects
 
-### CloudNotify - AWS Serverless Messaging Application
-- Built using AWS Lambda, API Gateway, SNS, SES, IAM, and CloudWatch
-- Automated Email and SMS workflows
-- Implemented secure cloud communication using IAM roles
+### ☁️ CloudNotify – AWS Serverless Messaging Application
 
-### Linux System Administration Lab
-- Configured Ubuntu and RHEL virtual machines
-- Managed users, permissions, and SSH access
-- Automated tasks using Bash scripting and Cron jobs
-- Performed Linux monitoring and troubleshooting
+* Built using AWS Lambda, API Gateway, SNS, SES, IAM, and CloudWatch
+* Automated Email and SMS workflows
+* Implemented secure cloud communication using IAM roles
+
+### 🐧 Linux System Administration Lab
+
+* Configured Ubuntu and RHEL virtual machines
+* Managed users, groups, permissions, and SSH access
+* Automated tasks using Bash scripting and Cron jobs
+* Performed Linux monitoring and troubleshooting
 
 ---
 
 ## 🎓 Certifications
 
-- Java Full Stack Development – Anudip Foundation
-- Foundation Python Data Science – NPTEL
-- CCNA (Networking) – Pursuing
-- RHCSA (Linux Administration) – Pursuing
+* Java Full Stack Development – Anudip Foundation
+* Foundation Python Data Science – NPTEL
+* CCNA (Pursuing)
+* RHCSA (Pursuing)
 
 ---
 
-## 🎯 Career Roadmap
+## 🎯 Career Goal
 
 Linux System Administrator
 ➡️ Cloud Support Engineer
@@ -89,7 +113,6 @@ Linux System Administrator
 
 ---
 
-## 📫 Connect With Me
+### ⚡ Fun Fact
 
-- LinkedIn: linkedin.com/in/niroopa-h-k
-- GitHub: github.com/Niroophk
+I enjoy building cloud-based solutions, automating Linux administration tasks, and continuously learning new technologies in Cloud and Cybersecurity.
