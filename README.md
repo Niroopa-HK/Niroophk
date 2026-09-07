@@ -91,20 +91,6 @@
 
 ---
 
-### 📄 Paperswi — Question Paper Management System
-
-**Python | Django | REST API | Flutter**
-
-- Question paper management system
-- Question paper setter assignment management
-- REST API development
-- Backend system design
-- Flutter application integration
-
-🔗 **Repository:** [Paperswi](YOUR_GITHUB_REPOSITORY_LINK)
-
----
-
 ## 💻 Technical Skills
 
 **Languages:** Python, SQL, JavaScript, HTML, CSS
@@ -133,11 +119,11 @@ I'm interested in building scalable backend applications, REST APIs, web applica
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: [LinkedIn Profile](YOUR_LINKEDIN_URL)
+💼 LinkedIn: [https://www.linkedin.com/in/niroopa-h-k/](YOUR_LINKEDIN_URL)
 
-🐙 GitHub: [GitHub Profile](YOUR_GITHUB_PROFILE_URL)
+🐙 GitHub: [https://github.com/Niroopa-HK](YOUR_GITHUB_PROFILE_URL)
 
-📧 Email: **your-email@example.com**
+📧 Email: **niroopa.19982002hk@gmail.com**
 
 ---
 
