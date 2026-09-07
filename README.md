@@ -1,118 +1,144 @@
 # Hi 👋, I'm Niroopa H K
 
-### Linux System Administrator | AWS Cloud | Networking (CCNA) | Technical Support
+### Python Backend Developer | Django | FastAPI | REST APIs | AI/GenAI
 
-🌍 Based in Bengaluru, Karnataka, India
+- 🐍 I'm a Python Developer focused on **Backend & Web Development**
 
-🎓 MCA Graduate passionate about Linux Administration, Cloud Computing, Networking, and Infrastructure Operations
+- 🚀 I'm currently building projects using **Python, Django, FastAPI and REST APIs**
 
-🌱 I'm currently learning AWS Cloud, Linux Administration, Shell Scripting, and Cloud Security
+- 🤖 I'm exploring **Generative AI, RAG, LangChain, LLMs and Vector Search**
 
-☁️ Currently building hands-on projects using AWS, Linux, and Networking concepts
+- 🛒 Check out my **Globex E-commerce Application** built with Python & Django
 
-💻 All of my projects are available on GitHub
+- 📄 Check out my **AI PDF Chatbot** built with Python, FastAPI & RAG
 
-🚀 Interested in Cloud Operations, System Administration, Technical Support, DevOps, and Cloud Security
+- 💻 All of my projects are available on **GitHub**
 
-💬 Ask me about Linux Administration, AWS Cloud, Networking (CCNA), Bash Scripting, and Technical Support
+- 🧠 Ask me about **Python, Django, FastAPI, REST APIs, MySQL and AI/GenAI**
 
-📫 Reach me at: [niroopa.19982002hk@gmail.com](mailto:niroopa.19982002hk@gmail.com)
+- 📚 I'm continuously learning **Backend Development, Cloud and AI Technologies**
 
-🔗 LinkedIn: https://www.linkedin.com/in/niroopa-h-k/
-
----
-
-## 🚀 Technical Skills
-
-### 🐧 Linux Administration
-
-* RHEL
-* Ubuntu
-* User & Group Management
-* SSH
-* File Permissions & ACL
-* Cron Jobs
-* Package Management (YUM/APT)
-* Process & Service Management
-* Log Analysis
-* System Monitoring
-* Bash Shell Scripting
-
-### ☁️ AWS Cloud
-
-* IAM
-* S3
-* CloudFront
-* Route 53
-* Lambda
-* API Gateway
-* SNS
-* SES
-* CloudWatch
-
-### 🌐 Networking (CCNA)
-
-* TCP/IP
-* OSI Model
-* Subnetting
-* Routing & Switching
-* VLANs
-* DNS
-* NAT
-* Network Troubleshooting
-
-### 🛠 Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Eclipse
-
-### 💻 Programming
-
-* Python
-* Java
-* SQL
-* JavaScript
+- 📫 Reach me at **your-email@example.com**
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Languages and Tools
 
-### ☁️ CloudNotify – AWS Serverless Messaging Application
+<p align="left">
 
-* Built using AWS Lambda, API Gateway, SNS, SES, IAM, and CloudWatch
-* Automated Email and SMS workflows
-* Implemented secure cloud communication using IAM roles
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
+<img src="https://skillicons.dev/icons?i=django" width="45"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+<img src="https://skillicons.dev/icons?i=html" width="45"/>
+<img src="https://skillicons.dev/icons?i=css" width="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="45"/>
+<img src="https://skillicons.dev/icons?i=git" width="45"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+<img src="https://skillicons.dev/icons?i=docker" width="45"/>
+<img src="https://skillicons.dev/icons?i=aws" width="45"/>
+<img src="https://skillicons.dev/icons?i=linux" width="45"/>
+<img src="https://skillicons.dev/icons?i=postman" width="45"/>
 
-### 🐧 Linux System Administration Lab
+</p>
 
-* Configured Ubuntu and RHEL virtual machines
-* Managed users, groups, permissions, and SSH access
-* Automated tasks using Bash scripting and Cron jobs
-* Performed Linux monitoring and troubleshooting
+### AI & Generative AI
 
----
+<p align="left">
 
-## 🎓 Certifications
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
 
-* Java Full Stack Development – Anudip Foundation
-* Foundation Python Data Science – NPTEL
-* CCNA (Pursuing)
-* RHCSA (Pursuing)
+**LangChain • RAG • LLMs • FAISS • Embeddings • Semantic Search • LM Studio**
 
----
-
-## 🎯 Career Goal
-
-Linux System Administrator
-➡️ Cloud Support Engineer
-➡️ Cloud Engineer
-➡️ Cloud Security Engineer
+</p>
 
 ---
 
-### ⚡ Fun Fact
+## 🚀 Featured Projects
 
-I enjoy building cloud-based solutions, automating Linux administration tasks, and continuously learning new technologies in Cloud and Cybersecurity.
+### 🛒 Globex — E-commerce Application
+
+**Python | Django | Django REST Framework | MySQL**
+
+- Full-stack e-commerce application
+- Product, category, user, cart and order management
+- RESTful API development using Django REST Framework
+- Authentication and role-based authorization
+- Django ORM and MySQL database integration
+- Search, filtering and pagination
+- Checkout and order-status workflows
+- API testing using Postman
+
+🔗 **Repository:** [Globex E-commerce](YOUR_GITHUB_REPOSITORY_LINK)
+
+---
+
+### 🤖 AI PDF Chatbot
+
+**Python | FastAPI | LangChain | RAG | FAISS | LM Studio | LLM**
+
+- AI-powered PDF question-answering application
+- PDF document upload and processing
+- Document chunking and embeddings
+- FAISS vector similarity search
+- Retrieval-Augmented Generation (RAG)
+- Qwen2.5-Coder-1.5B-Instruct integration through LM Studio
+- RESTful APIs using FastAPI
+- Request validation and exception handling
+- API testing using Postman
+
+🔗 **Repository:** [AI PDF Chatbot](YOUR_GITHUB_REPOSITORY_LINK)
+
+---
+
+### 📄 Paperswi — Question Paper Management System
+
+**Python | Django | REST API | Flutter**
+
+- Question paper management system
+- Question paper setter assignment management
+- REST API development
+- Backend system design
+- Flutter application integration
+
+🔗 **Repository:** [Paperswi](YOUR_GITHUB_REPOSITORY_LINK)
+
+---
+
+## 💻 Technical Skills
+
+**Languages:** Python, SQL, JavaScript, HTML, CSS
+
+**Backend:** Django, Django REST Framework, FastAPI, REST APIs
+
+**Database:** MySQL, SQL, Django ORM
+
+**AI & Generative AI:** RAG, LangChain, LLMs, FAISS, Embeddings, Semantic Search, LM Studio
+
+**Tools:** Git, GitHub, Postman, VS Code
+
+**Cloud & DevOps:** Linux, Docker, AWS, DevOps Fundamentals
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm actively looking for opportunities as a:
+
+**Python Developer | Django Developer | FastAPI Developer | Backend Developer | Python Full Stack Developer**
+
+I'm interested in building scalable backend applications, REST APIs, web applications and AI-powered solutions.
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: [LinkedIn Profile](YOUR_LINKEDIN_URL)
+
+🐙 GitHub: [GitHub Profile](YOUR_GITHUB_PROFILE_URL)
+
+📧 Email: **your-email@example.com**
+
+---
+
+⭐ Feel free to explore my repositories and projects!
