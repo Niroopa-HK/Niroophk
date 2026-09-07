@@ -87,7 +87,7 @@
 - Request validation and exception handling
 - API testing using Postman
 
-🔗 **Repository:** [AI PDF Chatbot](YOUR_GITHUB_REPOSITORY_LINK)
+🔗 **Repository:** [https://github.com/Niroopa-HK/Ai-Pdf-Chatboot](YOUR_GITHUB_REPOSITORY_LINK)
 
 ---
 
